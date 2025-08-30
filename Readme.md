@@ -31,7 +31,7 @@ This project applies **regression techniques** on real housing data to provide *
 **Tools**
 - Jupyter Notebook  
 - Git & GitHub  
-- VS Code / PyCharm  
+- VS Code   
 
 
 ---
@@ -59,9 +59,9 @@ This project applies **regression techniques** on real housing data to provide *
 
 ##  Model Performance
 
-- Model: Linear Regression (can be extended to XGBoost, RandomForest, etc.)
+- Model: Linear Regression 
 
-- Metrics: R² score ~0.80, RMSE minimized
+- Metrics: R² score ~0.85, RMSE minimized
 
 - Well-optimized through outlier removal & feature encoding
 
@@ -71,9 +71,9 @@ This project applies **regression techniques** on real housing data to provide *
 
 - Add advanced ML models (XGBoost, RandomForest, Neural Networks)
 
-- Deploy live on Heroku/AWS/Render
+- Deploy live on Render
 
-- Enhance UI with React or Next.js
+- Enhance UI with html and css
 
 - Extend to predict rental prices
 
