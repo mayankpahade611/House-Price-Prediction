@@ -77,9 +77,3 @@ This project applies **regression techniques** on real housing data to provide *
 
 - Extend to predict rental prices
 
----
-
-##  License
-
-- This project is licensed under the MIT License - see the LICENSE
- file for details
