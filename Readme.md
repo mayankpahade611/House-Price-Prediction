@@ -54,7 +54,7 @@ This project applies **regression techniques** on real housing data to provide *
 
 4. **Open in browser**
     ```bash
-
+    https://banglore-house-price-prediction-yxkx.onrender.com
 ---
 
 ##  Model Performance
