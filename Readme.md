@@ -3,6 +3,8 @@
 A **Machine Learning project** that predicts house prices in Bangalore based on key factors like **location, square footage, number of bedrooms (BHK), bathrooms, and balconies**.  
 The project integrates **data science, machine learning, and web development** to build an end-to-end solution — from data preprocessing to a deployed **Flask web app** with an interactive UI.
 
+ **Live Demo:** [Click here to try the app](https://banglore-house-price-prediction-yxkx.onrender.com)
+
 ---
 
 ##  Why This Project?
